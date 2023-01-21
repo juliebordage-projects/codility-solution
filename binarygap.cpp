@@ -1,4 +1,4 @@
-//https://codility.com/demo/results/trainingU2FQPQ-7Y4/
+//https://app.codility.com/programmers/lessons/1-iterations/
 
 #include <iostream>
 #include <bitset>
