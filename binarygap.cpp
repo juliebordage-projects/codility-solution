@@ -1,3 +1,5 @@
+//https://codility.com/demo/results/trainingU2FQPQ-7Y4/
+
 #include <iostream>
 #include <bitset>
 
